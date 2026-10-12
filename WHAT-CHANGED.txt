@@ -1,0 +1,9 @@
+PPC Flexible Packaging – Editorial Redesign
+
+Updated sections:
+- Home: markets showcase (official PPC Flex photography; responsive industry links)
+- Industries: visual full-bleed industry photo grid (official PPC Flex photography)
+- About Us: people-first photo and process timeline
+- Solutions: dark editorial manufacturing and capabilities story
+
+The site is ready to upload to GitHub Pages as flat files. Upload the CONTENTS of this folder to the repository root. Photography is remotely referenced from the current official PPC Flex website and should be saved in the new domain before production launch. The contact form remains preview-only until connected to a backend.
