@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="104" viewBox="0 0 360 104" role="img" aria-label="PPC Flexible Packaging">
+ <title>PPC Flexible Packaging</title>
+ <g transform="translate(2 0) scale(1.05)"><g>
+<path fill="#143B53" fill-rule="evenodd" d="M18 93V14h40c23 0 37 13 37 34 0 22-14 35-37 35H43v10H18Zm25-59v29h15c10 0 16-5 16-15s-6-14-16-14H43Z"/>
+<path fill="#84BE3E" d="M18 76.5 43 59v34H18z"/>
+<path fill="#84BE3E" d="M73 19.4c13 4.8 20 14.1 22 28.5L75 41.5C72.8 36 68.7 33.3 61.7 32L63 14.3Z"/>
+</g></g>
+ <g font-family="Inter, Arial, Helvetica, sans-serif">
+ <text x="119" y="61.5" fill="#143B53" font-size="61" font-weight="790" letter-spacing="-4.4">PPC</text>
+ <rect x="119" y="71" width="48" height="3.8" rx="1.9" fill="#84BE3E"/>
+ <text x="119" y="93" fill="#42657B" font-size="17.4" font-weight="620" letter-spacing="2.3">FLEXIBLE PACKAGING</text>
+ </g>
+ </svg>
