@@ -1,0 +1,22 @@
+PPC FLEXIBLE PACKAGING — FIXED GITHUB PAGES UPLOAD
+
+Repository: Xarybanerihamar/ppcflex
+Preview URL: https://xarybanerihamar.github.io/ppcflex/
+
+The previous ZIP used an assets/ folder, but the uploaded GitHub repository has the asset files directly in the root. This corrected copy uses the root structure everywhere.
+
+UPLOAD STEPS:
+1. Extract the ZIP on your computer.
+2. Open the GitHub repository ppcflex on the main branch.
+3. Click Add file -> Upload files.
+4. Drag ALL extracted files themselves into the upload area. (Not the ZIP, and not the enclosing folder.)
+5. GitHub will replace the existing files of the same names. Click Commit changes.
+6. Wait for the new GitHub Pages deployment to finish.
+7. Hard-refresh the preview with Ctrl+Shift+R (or use a private browser window).
+
+Keep the filenames as-is and all files together in repository root:
+  index.html, about.html, solutions.html, industries.html, contact.html
+  style.css, script.js
+  logo.svg, logo-reverse.svg, favicon.svg, favicon.ico, etc.
+
+No custom domain is connected by this change. The contact form is still a demonstration and does not send messages.
