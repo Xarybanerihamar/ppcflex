@@ -1,10 +1,10 @@
-# PPC Flexible Packaging – five-page concept website
+# PPC Flexible Packaging – five-page static website
 
-The site was created for the proposed `ppcflexible.com` domain and is ready to upload to a GitHub repository as static files. The five pages are `index.html`, `solutions.html`, `industries.html`, `about.html`, and `contact.html`. CSS, JavaScript, and favicon are in `assets/`.
+The site was created for the proposed `ppcflexible.com` domain and is ready to upload to a GitHub repository as static files. The five pages are `index.html`, `solutions.html`, `industries.html`, `about.html`, and `contact.html`. CSS, JavaScript, and favicon files are in the website root.
 
 ## Preview / Publishing
 
-Open `index.html` locally or use GitHub Pages (Settings → Pages → Deploy from branch → main / root). A `DOMAIN-WHEN-READY.txt` guide names the eventual `ppcflexible.com` domain. No active `CNAME` file is included, so GitHub Pages can be previewed on its default URL first. Later, confirm you own the domain, configure the GitHub Pages custom domain and verified registrar DNS records, and then enable HTTPS.
+Open `index.html` locally or use GitHub Pages (Settings → Pages → Deploy from branch → main / root). A `CNAME` file is included for `ppcflexible.com`. Make sure the custom-domain configuration and DNS records match before expecting the domain to work. Later, confirm you own the domain, configure the GitHub Pages custom domain and verified registrar DNS records, and then enable HTTPS.
 
 ## Images / attribution
 
@@ -20,16 +20,17 @@ These are existing company product visuals, not AI-generated images. They are ex
 ## Information verified from existing site
 
 - Corporate headquarters: 1111 Busch Pkwy, Buffalo Grove, IL 60089
-- Public phone: 1 (833) PPC-FLEX
+- Contact phone for this site: 815-240-3427
+- Contact email for this site: info@ppcflexible.com
 - Packaging portfolio: bags/pouches, rollstock, reclosable packaging, cleanroom stock products, prototype packaging
 - Markets: food, healthcare/specialty, pet care, nutraceuticals, produce, floral, consumer packaging
 - Recyclable and compostable packaging options
 
 Sources: https://ppcflex.com/ ; https://ppcflex.com/product-packaging/ ; https://ppcflex.com/markets/ ; https://ppcflex.com/sustainability/ ; https://ppcflex.com/about/ ; https://ppcflex.com/contact/ .
 
-## IMPORTANT: form is demo-only
+## Contact form: visitor's email application
 
-The contact form is a visual, interactive preview. It does not send submissions or store visitor information. To go live, connect a company-controlled address to Formspree, an authenticated serverless endpoint, or your backend. Do not display a misleading success message without a confirmed submission. The form currently says 'not sent' on successful local validation.
+The inquiry form is functional without a backend. When a visitor fills it out and clicks **Send Email**, the site constructs a `mailto:` link to `info@ppcflexible.com` with the name, company, email, phone, packaging type, and project details already in the message. The browser attempts to open the visitor's default email application or email handler. **The visitor must click Send in that email application; the website cannot send automatically or verify delivery.** If no email application is configured, a fallback link is shown under the form. For server-side delivery without relying on visitor email configuration, add a form backend/service in a future update.
 
 ## Domain migration
 

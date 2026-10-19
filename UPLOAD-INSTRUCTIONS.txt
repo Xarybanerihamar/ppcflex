@@ -19,4 +19,4 @@ Keep the filenames as-is and all files together in repository root:
   style.css, script.js
   logo.svg, logo-reverse.svg, favicon.svg, favicon.ico, etc.
 
-No custom domain is connected by this change. The contact form is still a demonstration and does not send messages.
+The contact phone is 815-240-3427 and email is info@ppcflexible.com. The contact form opens the visitor's own email app with their details filled in; the visitor must press Send in that app. Ensure the domain and email address are configured and working.

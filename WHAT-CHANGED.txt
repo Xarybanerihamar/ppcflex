@@ -6,4 +6,4 @@ Updated sections:
 - About Us: people-first photo and process timeline
 - Solutions: dark editorial manufacturing and capabilities story
 
-The site is ready to upload to GitHub Pages as flat files. Upload the CONTENTS of this folder to the repository root. Photography is remotely referenced from the current official PPC Flex website and should be saved in the new domain before production launch. The contact form remains preview-only until connected to a backend.
+The site is ready to upload to GitHub Pages as flat files. Upload the CONTENTS of this folder to the repository root. Photography is remotely referenced from the current official PPC Flex website and should be saved in the new domain before production launch. Contact details now use info@ppcflexible.com and 815-240-3427 across the website. The form prepares a complete email for the visitor to send from their own email app (no backend required).
