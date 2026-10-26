@@ -20,7 +20,7 @@ These are existing company product visuals, not AI-generated images. They are ex
 ## Information verified from existing site
 
 - Corporate headquarters: 1111 Busch Pkwy, Buffalo Grove, IL 60089
-- Contact phone for this site: 815-240-3427
+- Contact phone for this site: 786-745-8523
 - Contact email for this site: info@ppcflexible.com
 - Packaging portfolio: bags/pouches, rollstock, reclosable packaging, cleanroom stock products, prototype packaging
 - Markets: food, healthcare/specialty, pet care, nutraceuticals, produce, floral, consumer packaging
