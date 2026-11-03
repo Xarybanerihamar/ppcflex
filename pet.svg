@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-label="Conceptual packaging illustration">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2e8d9"/><stop offset="1" stop-color="#ffffff"/></linearGradient><filter id="shadow" x="-20%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#765b47" flood-opacity=".2"/></filter></defs>
+<rect width="1000" height="800" fill="url(#bg)"/>
+<circle cx="835" cy="170" r="235" fill="#c9aa73" opacity=".2"/><circle cx="154" cy="705" r="220" fill="#c9aa73" opacity=".16"/><rect x="83" y="72" width="834" height="650" rx="42" fill="white" opacity=".23"/>
+<g filter="url(#shadow)"><path d="M356 222H619L656 697H322Z" fill="white"/><path d="M331 555H646L656 697H322Z" fill="#c9aa73"/><circle cx="484" cy="430" r="86" fill="#765b47" opacity=".12"/><circle cx="441" cy="405" r="19" fill="#765b47"/><circle cx="483" cy="384" r="19" fill="#765b47"/><circle cx="529" cy="405" r="19" fill="#765b47"/><path d="M435 472 Q485 391 534 472 Q547 516 486 523 Q426 516 435 472Z" fill="#765b47"/></g>
+<path d="M115 720H885" stroke="#765b47" stroke-opacity=".2" stroke-width="3"/>
+</svg>

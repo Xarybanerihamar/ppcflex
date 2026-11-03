@@ -1,9 +1,9 @@
-PPC Flexible Packaging – Editorial Redesign
+PPC Flexible - November 2026 identity and address update
 
-Updated sections:
-- Home: markets showcase (official PPC Flex photography; responsive industry links)
-- Industries: visual full-bleed industry photo grid (official PPC Flex photography)
-- About Us: people-first photo and process timeline
-- Solutions: dark editorial manufacturing and capabilities story
-
-The site is ready to upload to GitHub Pages as flat files. Upload the CONTENTS of this folder to the repository root. Photography is remotely referenced from the current official PPC Flex website and should be saved in the new domain before production launch. Contact details now use info@ppcflexible.com and 786-745-8523 across the website. The form prepares a complete email for the visitor to send from their own email app (no backend required).
+- Changed the website brand from PPC Flexible Packaging to PPC Flexible in page titles, text, navigation, accessible logo labels, metadata, logo art, and the contact email greeting.
+- Updated the actual business address everywhere to 1530 Brandywyn Ln, Buffalo Grove, IL 60089.
+- Added a visible, site-wide business-independence notice stating PPC Flexible is not affiliated with PPC Flexible Packaging at 1111 Busch Parkway, Buffalo Grove, IL 60089.
+- Added more detail on the About and Contact pages.
+- Removed all images sourced from ppcflex.com and their attribution claims. Replaced these with local, original concept illustrations to avoid implying affiliation or misrepresenting the other company's product work.
+- Replaced logo mark and regenerated PNG/favicons to reflect the independent PPC Flexible identity.
+- Preserved existing phone number 786-745-8523, email info@ppcflexible.com, and mailto-based contact form.

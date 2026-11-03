@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const subjectName = value('company').replace(/[\r\n]+/g, ' ');
     const subject = `New Packaging Inquiry - ${subjectName}`;
     const body = [
-      'Hello PPC Flexible Packaging,',
+      'Hello PPC Flexible,',
       '',
       'I would like to discuss a packaging project.',
       '',

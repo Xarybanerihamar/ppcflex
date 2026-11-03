@@ -1,40 +1,22 @@
-# PPC Flexible Packaging – five-page static website
+# PPC Flexible — independent, five-page static website
 
-The site was created for the proposed `ppcflexible.com` domain and is ready to upload to a GitHub repository as static files. The five pages are `index.html`, `solutions.html`, `industries.html`, `about.html`, and `contact.html`. CSS, JavaScript, and favicon files are in the website root.
+This website presents **PPC Flexible**, located at **1530 Brandywyn Ln, Buffalo Grove, IL 60089**. PPC Flexible is **not affiliated with PPC Flexible Packaging at 1111 Busch Parkway, Buffalo Grove, IL 60089**. This distinction is stated prominently on every page, with additional information on the About and Contact pages.
 
-## Preview / Publishing
+## Contents and publishing
 
-Open `index.html` locally or use GitHub Pages (Settings → Pages → Deploy from branch → main / root). A `CNAME` file is included for `ppcflexible.com`. Make sure the custom-domain configuration and DNS records match before expecting the domain to work. Later, confirm you own the domain, configure the GitHub Pages custom domain and verified registrar DNS records, and then enable HTTPS.
+The five HTML pages are `index.html`, `solutions.html`, `industries.html`, `about.html`, and `contact.html`. The site includes `style.css`, `script.js`, SVG and PNG logo/icon assets, and original generic illustrations under `illustrations/`. All visual assets are included in this package; no images are loaded from the unrelated `ppcflex.com` website. The images are **concept illustrations**, not photographs of completed work or customers' products.
 
-## Images / attribution
+For GitHub Pages, extract the ZIP and upload **the contents of `ppcflex-main`** to the repository root, keeping the `illustrations` folder intact. `CNAME` is configured for `ppcflexible.com`; confirm that this domain belongs to your business and is configured in GitHub Pages and DNS before launching.
 
-The product visuals are PPC Flex images referenced remotely from the established company website `ppcflex.com`:
-- `https://ppcflex.com/wp-content/uploads/2025/11/bags.png`
-- `https://ppcflex.com/wp-content/uploads/2024/10/rollstock.png`
-- `https://ppcflex.com/wp-content/uploads/2024/03/2024_PPCFLEX_Thrive-1.jpg`
-- `https://ppcflex.com/wp-content/uploads/2024/03/prototype-packaging-768x768.png`
-- `https://ppcflex.com/wp-content/uploads/2024/01/PPC-Pillow-bags-1-768x768.png`
+## Contact settings
 
-These are existing company product visuals, not AI-generated images. They are externally hosted, so the browser needs an internet connection and the upstream site must allow serving them. Before official publication, use authorized, locally hosted originals supplied by the company to avoid dependence on an external website. The small header logo mark is a provisional CSS/vector mark; replace it with the official vector PPC Flex logo if available/required. The brand typography is original website styling, not an exact reproduction of the company's existing logo.
+- Business name: PPC Flexible
+- Address: 1530 Brandywyn Ln, Buffalo Grove, IL 60089
+- Telephone: 786-745-8523
+- Email: info@ppcflexible.com
 
-## Information verified from existing site
+The inquiry form builds a prefilled `mailto:` message addressed to `info@ppcflexible.com`. Visitors must send that message from their own email application; the website does not send or store submissions itself. Ensure the business owns and controls its email address and domain before publishing.
 
-- Corporate headquarters: 1111 Busch Pkwy, Buffalo Grove, IL 60089
-- Contact phone for this site: 786-745-8523
-- Contact email for this site: info@ppcflexible.com
-- Packaging portfolio: bags/pouches, rollstock, reclosable packaging, cleanroom stock products, prototype packaging
-- Markets: food, healthcare/specialty, pet care, nutraceuticals, produce, floral, consumer packaging
-- Recyclable and compostable packaging options
+## Content review before public launch
 
-Sources: https://ppcflex.com/ ; https://ppcflex.com/product-packaging/ ; https://ppcflex.com/markets/ ; https://ppcflex.com/sustainability/ ; https://ppcflex.com/about/ ; https://ppcflex.com/contact/ .
-
-## Contact form: visitor's email application
-
-The inquiry form is functional without a backend. When a visitor fills it out and clicks **Send Email**, the site constructs a `mailto:` link to `info@ppcflexible.com` with the name, company, email, phone, packaging type, and project details already in the message. The browser attempts to open the visitor's default email application or email handler. **The visitor must click Send in that email application; the website cannot send automatically or verify delivery.** If no email application is configured, a fallback link is shown under the form. For server-side delivery without relying on visitor email configuration, add a form backend/service in a future update.
-
-## Domain migration
-
-`ppcflex.com` is the current public site; `ppcflexible.com` was requested for this new website. No existing redirects, email domains, or DNS configurations were modified. Coordinate a proper redirect and mail DNS plan separately, with company administrator access.
-
-### Updated PPC logo and favicon
-The brand uses the custom, flat folded-film logo found at `assets/logo.svg`. The dark-footer variant is `assets/logo-reverse.svg`. Browser favicons are `assets/favicon.svg`, `assets/favicon.ico`, and `assets/apple-touch-icon.png`. PNG versions are included for Outlook and other uses.
+Confirm that all described services, manufacturing capabilities, certifications, and sustainability options accurately reflect PPC Flexible's own offerings. None of these claims should be interpreted as services or achievements belonging to another company. Substitute original, authorized work photos in place of generic illustrations if desired.

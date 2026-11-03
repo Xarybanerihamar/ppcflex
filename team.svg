@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-label="Conceptual packaging illustration">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8efe9"/><stop offset="1" stop-color="#ffffff"/></linearGradient><filter id="shadow" x="-20%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#416d70" flood-opacity=".2"/></filter></defs>
+<rect width="1000" height="800" fill="url(#bg)"/>
+<circle cx="835" cy="170" r="235" fill="#8db9a8" opacity=".2"/><circle cx="154" cy="705" r="220" fill="#8db9a8" opacity=".16"/><rect x="83" y="72" width="834" height="650" rx="42" fill="white" opacity=".23"/>
+<g filter="url(#shadow)"><path d="M300 392 L480 280 L680 390 L500 509Z" fill="white"/><path d="M300 392 L500 509 V690 L300 570Z" fill="#8db9a8"/><path d="M500 509 L680 390 V570 L500 690Z" fill="#416d70" opacity=".9"/><path d="M480 280 L500 509" stroke="#416d70" stroke-width="6" opacity=".15"/><path d="M400 340 L605 452" stroke="#8db9a8" stroke-width="15" opacity=".6"/></g><g transform="translate(240,-140) scale(.75)" filter="url(#shadow)"><path d="M300 392 L480 280 L680 390 L500 509Z" fill="white"/><path d="M300 392 L500 509 V690 L300 570Z" fill="#416d70" opacity=".7"/><path d="M500 509 L680 390 V570 L500 690Z" fill="#8db9a8"/></g>
+<path d="M115 720H885" stroke="#416d70" stroke-opacity=".2" stroke-width="3"/>
+</svg>

@@ -1,22 +1,19 @@
-PPC FLEXIBLE PACKAGING — FIXED GITHUB PAGES UPLOAD
+PPC FLEXIBLE — GITHUB PAGES UPLOAD
 
-Repository: Xarybanerihamar/ppcflex
-Preview URL: https://xarybanerihamar.github.io/ppcflex/
+Repository from original website: Xarybanerihamar/ppcflex
+Preview URL from original website: https://xarybanerihamar.github.io/ppcflex/
 
-The previous ZIP used an assets/ folder, but the uploaded GitHub repository has the asset files directly in the root. This corrected copy uses the root structure everywhere.
+1. Unzip this package.
+2. Open the GitHub repository on the main branch.
+3. Select Add file > Upload files.
+4. Upload ALL files in the ppcflex-main directory, including the illustrations folder (do not upload just the zip).
+5. Commit the changes, then check GitHub Pages to see the updated site.
+6. Refresh the browser (Ctrl+Shift+R) to clear older cached images.
 
-UPLOAD STEPS:
-1. Extract the ZIP on your computer.
-2. Open the GitHub repository ppcflex on the main branch.
-3. Click Add file -> Upload files.
-4. Drag ALL extracted files themselves into the upload area. (Not the ZIP, and not the enclosing folder.)
-5. GitHub will replace the existing files of the same names. Click Commit changes.
-6. Wait for the new GitHub Pages deployment to finish.
-7. Hard-refresh the preview with Ctrl+Shift+R (or use a private browser window).
+Business name: PPC Flexible
+Business address: 1530 Brandywyn Ln, Buffalo Grove, IL 60089
+Phone: 786-745-8523
+Email: info@ppcflexible.com
+Independence notice appears on every page; the unrelated company's address is used ONLY in the non-affiliation disclosure.
 
-Keep the filenames as-is and all files together in repository root:
-  index.html, about.html, solutions.html, industries.html, contact.html
-  style.css, script.js
-  logo.svg, logo-reverse.svg, favicon.svg, favicon.ico, etc.
-
-The contact phone is 786-745-8523 and email is info@ppcflexible.com. The contact form opens the visitor's own email app with their details filled in; the visitor must press Send in that app. Ensure the domain and email address are configured and working.
+Confirm the domain ppcflexible.com and info@ppcflexible.com are under your business's control before publishing.
